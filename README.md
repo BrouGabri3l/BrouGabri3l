@@ -1,4 +1,11 @@
-### Hi there 👋
+### Olá 👋
+<div align="left"
+<a href="https://github.com/BrouGabri3l">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrouGabri3l&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrouGabri3l&theme=tokyonight&layout=compact" />
+</a>
+</div>
+
 
 <!--
 **BrouGabri3l/BrouGabri3l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
