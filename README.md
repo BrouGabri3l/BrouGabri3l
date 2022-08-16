@@ -17,23 +17,31 @@
   <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 </div>
-  
-##
+
+
+## CONHEÇA MEUS PRINCIPAIS REPOSITÓRIOS
+
 <details>
-  <summary>**Conheça meus repositórios**</summary>
-  <summary>HTML,CSS,JS</summary>   
-  
-      [Criando um drawer component utilizando shadow DOM](https://github.com/BrouGabri3l/drawer-component)
-  
-      [Clone da página de login do Instagram](https://github.com/BrouGabri3l/dio-instagram-clone)
-  
-      [Jogo da forca Alura - Oracle Next Education](https://github.com/BrouGabri3l/AluraChallenge-jogodaforca)
-  
-      [Codificador de Texto Alura](https://github.com/BrouGabri3l/AluraChallenge-Codificador)
-  
-    
+    <summary>HTML,CSS,JS</summary>   
+      
+  + [Criando um drawer component utilizando shadow DOM](https://github.com/BrouGabri3l/drawer-component)
+
+  + [Clone da página de login do Instagram](https://github.com/BrouGabri3l/dio-instagram-clone)
+
+  + [Jogo da forca Alura - Oracle Next Education](https://github.com/BrouGabri3l/AluraChallenge-jogodaforca)
+
+  + [Codificador de Texto Alura](https://github.com/BrouGabri3l/AluraChallenge-Codificador)
+      
 </details>
-    
+
+<details>
+    <summary>REACT</summary>   
+      
+  + [CRUD utilizando React e Material]([https://github.com/BrouGabri3l/drawer-component](https://github.com/BrouGabri3l/CRUD-ReactMaterial))
+      
+</details>
+
+
 ![GitHub Snake Light](https://github.com/BrouGabri3l/BrouGabri3l/blob/output/github-contribution-grid-snake.svg)
 <!--
 **BrouGabri3l/BrouGabri3l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
