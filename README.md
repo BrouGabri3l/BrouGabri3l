@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabriel-rodrigues-9993181ba/)
 
 <div align="center">
-<a href="https://github.com/BrouGabri3l">
+<a href="https://github.com/BrouGabri3l"></a>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BrouGabri3l&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrouGabri3l&theme=tokyonight&layout=compact" />
 </div>
@@ -19,10 +19,8 @@
 </div>
   
 ##
-
-
+##VENHA CONHECER OS MEUS REPOSITÓRIOS
 <details>
-  <summary>##VENHA CONHECER OS MEUS REPOSITÓRIOS</summary>
     + HTML,CSS,JS
       ![Criando um drawer component utilizando shadow DOM](https://github.com/BrouGabri3l/drawer-component)
       ![Clone da página de login do Instagram](https://github.com/BrouGabri3l/dio-instagram-clone)
