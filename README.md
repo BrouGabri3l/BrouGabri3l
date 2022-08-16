@@ -1,6 +1,6 @@
 ### Olá, Me Chamo Gabriel!! 👋
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zluvsand/)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabriel-rodrigues-9993181ba/)
 
 <div align="center">
 <a href="https://github.com/BrouGabri3l">
