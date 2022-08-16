@@ -1,4 +1,7 @@
 ### Olá, Me Chamo Gabriel!! 👋
+
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zluvsand/)
+
 <div align="center">
 <a href="https://github.com/BrouGabri3l">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BrouGabri3l&show_icons=true&theme=tokyonight&count_private=true" />
