@@ -21,11 +21,16 @@
 ##
 ##VENHA CONHECER OS MEUS REPOSITÓRIOS
 <details>
-    + HTML,CSS,JS
+  <summary>HTML,CSS,JS</summary>   
+  
       ![Criando um drawer component utilizando shadow DOM](https://github.com/BrouGabri3l/drawer-component)
+  
       ![Clone da página de login do Instagram](https://github.com/BrouGabri3l/dio-instagram-clone)
+  
       ![Jogo da forca Alura - Oracle Next Education](https://github.com/BrouGabri3l/AluraChallenge-jogodaforca)
+  
       ![Codificador de Texto Alura](https://github.com/BrouGabri3l/AluraChallenge-Codificador)
+  
     
 </details>
     
