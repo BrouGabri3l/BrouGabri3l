@@ -1,4 +1,4 @@
-### Olá, Me Chamo Gabriel!! 👋
+### Olá, Me Chamo Gabriel!! Sou desenvolvedor de Software 👋
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabriel-rodrigues-9993181ba/)
 
