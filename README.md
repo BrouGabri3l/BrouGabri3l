@@ -37,7 +37,7 @@
 <details>
     <summary>REACT</summary>   
       
-  + [CRUD utilizando React e Material]([https://github.com/BrouGabri3l/drawer-component](https://github.com/BrouGabri3l/CRUD-ReactMaterial))
+  + [CRUD utilizando React e Material](https://github.com/BrouGabri3l/CRUD-ReactMaterial)
       
 </details>
 
