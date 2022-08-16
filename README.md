@@ -6,7 +6,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrouGabri3l&theme=tokyonight&layout=compact" />
 </a>
 </div>
-<div>
+<div style="padding:5em">
   <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />          
   <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
