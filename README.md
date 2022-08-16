@@ -1,12 +1,12 @@
 ### Olá, Me Chamo Gabriel!! 👋
 <div align="center">
-<img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
 <a href="https://github.com/BrouGabri3l">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BrouGabri3l&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrouGabri3l&theme=tokyonight&layout=compact" />
 </a>
 </div>
-
+<img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 ![GitHub Snake Light](https://github.com/BrouGabri3l/BrouGabri3l/blob/output/github-contribution-grid-snake.svg)
 <!--
 **BrouGabri3l/BrouGabri3l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
