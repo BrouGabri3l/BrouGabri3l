@@ -40,7 +40,30 @@
   + [CRUD utilizando React e Material](https://github.com/BrouGabri3l/CRUD-ReactMaterial)
       
 </details>
-
+<details>
+    <summary>NODE</summary>   
+      
+  + [Api utilizando MongoDB, Express para utilizar com aplicações React](https://github.com/BrouGabri3l/MERN-API)
+      
+</details>
+<details>
+    <summary>ANGULAR</summary>   
+      
+  + [DIO - Angular BanklineApp](https://github.com/BrouGabri3l/bankline-app)
+      
+</details>
+<details>
+    <summary>C#(.NET)</summary>   
+      
+  + [MVC Vendas](https://github.com/BrouGabri3l/SalesWebMvc)
+  + [Game Xadrez](https://github.com/BrouGabri3l/Xadrez-Console) 
+</details>
+<details>
+    <summary>JAVA</summary>   
+      
+  + [DIO - BanklineApi JAVA](https://github.com/BrouGabri3l/bankline-api)
+      
+</details>
 
 ![GitHub Snake Light](https://github.com/BrouGabri3l/BrouGabri3l/blob/output/github-contribution-grid-snake.svg)
 <!--
